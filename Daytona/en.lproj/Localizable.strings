@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Daytona
+
+  Created by Anton Ostrovskii on 9/3/22.
+  
+*/
+
+"postsViewController.title" = "Posts";
+"postsViewController.error" = "Error";

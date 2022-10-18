@@ -1,0 +1,20 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Stan",
+    "body": "Dear Slim, I wrote you but still ain't callin'"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Dean Corso",
+    "body": "I need to find all the secrets in the Ninth Gate books"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Undying",
+    "body": "Jeremiah was right all along!"
+  }
+]
